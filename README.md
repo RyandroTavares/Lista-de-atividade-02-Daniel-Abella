@@ -1,4 +1,5 @@
-# Lista-de-atividade-02-Daniel-Abella
-Lógica de Programação e Gestão de Projetos, Lista de exercícios 02, Primeiro período, Daniel Abella. (21/03/2022)
+# Lista-de-atividades-02--21/03/2022
+Lógica de Programação e Gestão de Porjetos, Lista de exercícios 02, Primeiro Perído. (21/03/2022)
 
-Linguagem de programação (Python 3) Questões publicadas de 01 a 15
+Línguagem de programação (Python 3.10) Questão Publicadas de 01 a 15.
+Publicadas pelo professor Daniel Abella e realizadas por Ryandro Tavares
